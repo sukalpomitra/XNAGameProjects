@@ -1,0 +1,2 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\MovingTeddyBears\MovingTeddyBearsContent\obj\x86\Debug\MovingTeddyBearsContent.contentprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\MovingTeddyBears\MovingTeddyBears\MovingTeddyBearsContent\obj\x86\Debug\MovingTeddyBearsContent.contentprojResolveAssemblyReference.cache

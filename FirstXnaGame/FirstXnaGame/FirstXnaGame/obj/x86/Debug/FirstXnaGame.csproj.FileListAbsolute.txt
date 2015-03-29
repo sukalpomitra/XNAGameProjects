@@ -1,0 +1,18 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game\Code\FirstXnaGame\FirstXnaGame\bin\x86\Debug\FirstXnaGame.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game\Code\FirstXnaGame\FirstXnaGame\bin\x86\Debug\FirstXnaGame.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game\Code\FirstXnaGame\FirstXnaGame\obj\x86\Debug\FirstXnaGame.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game\Code\FirstXnaGame\FirstXnaGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game\Code\FirstXnaGame\FirstXnaGame\obj\x86\Debug\FirstXnaGame.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game\Code\FirstXnaGame\FirstXnaGame\obj\x86\Debug\FirstXnaGame.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game\Code\FirstXnaGame\FirstXnaGame\bin\x86\Debug\Content\teddybear0.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game\Code\FirstXnaGame\FirstXnaGame\bin\x86\Debug\Content\teddybear1.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game\Code\FirstXnaGame\FirstXnaGame\bin\x86\Debug\Content\teddybear2.xnb
+D:\visual studio 2013\Projects\FirstXnaGame\FirstXnaGame\FirstXnaGame\bin\x86\Debug\Content\teddybear0.xnb
+D:\visual studio 2013\Projects\FirstXnaGame\FirstXnaGame\FirstXnaGame\bin\x86\Debug\Content\teddybear1.xnb
+D:\visual studio 2013\Projects\FirstXnaGame\FirstXnaGame\FirstXnaGame\bin\x86\Debug\Content\teddybear2.xnb
+D:\visual studio 2013\Projects\FirstXnaGame\FirstXnaGame\FirstXnaGame\bin\x86\Debug\FirstXnaGame.exe
+D:\visual studio 2013\Projects\FirstXnaGame\FirstXnaGame\FirstXnaGame\bin\x86\Debug\FirstXnaGame.pdb
+D:\visual studio 2013\Projects\FirstXnaGame\FirstXnaGame\FirstXnaGame\obj\x86\Debug\FirstXnaGame.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\Projects\FirstXnaGame\FirstXnaGame\FirstXnaGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\visual studio 2013\Projects\FirstXnaGame\FirstXnaGame\FirstXnaGame\obj\x86\Debug\FirstXnaGame.exe
+D:\visual studio 2013\Projects\FirstXnaGame\FirstXnaGame\FirstXnaGame\obj\x86\Debug\FirstXnaGame.pdb
