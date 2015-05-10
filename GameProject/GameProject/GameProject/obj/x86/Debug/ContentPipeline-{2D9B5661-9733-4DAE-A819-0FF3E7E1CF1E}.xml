@@ -55,6 +55,60 @@
       <Output>D:\visual studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\teddybearprojectile.xnb</Output>
       <Time>2015-03-17T00:59:13.2662458+08:00</Time>
     </Item>
+    <Item>
+      <Source>sounds\BurgerDamage.wav</Source>
+      <Name>sounds\BurgerDamage</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\visual studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDamage.xnb</Output>
+      <Time>2015-03-17T00:59:13.3062703+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\BurgerDeath.wav</Source>
+      <Name>sounds\BurgerDeath</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\visual studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerDeath.xnb</Output>
+      <Time>2015-03-17T00:59:13.3382923+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\BurgerShot.wav</Source>
+      <Name>sounds\BurgerShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\visual studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\BurgerShot.xnb</Output>
+      <Time>2015-03-17T00:59:13.3623094+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Explosion.wav</Source>
+      <Name>sounds\Explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\visual studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\Explosion.xnb</Output>
+      <Time>2015-03-17T00:59:13.4003368+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\TeddyBounce.wav</Source>
+      <Name>sounds\TeddyBounce</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\visual studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyBounce.xnb</Output>
+      <Time>2015-03-17T00:59:13.4213513+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\TeddyShot.wav</Source>
+      <Name>sounds\TeddyShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\visual studio 2013\Projects\GameProject\GameProject\GameProject\bin\x86\Debug\Content\sounds\TeddyShot.xnb</Output>
+      <Time>2015-03-17T00:59:13.4423659+08:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <ContentProjectGUID>{2D9B5661-9733-4DAE-A819-0FF3E7E1CF1E}</ContentProjectGUID>

@@ -63,6 +63,15 @@ namespace GameProject
             get { return drawRectangle; }
         }
 
+        /// <summary>
+        /// Gets the health for the burger
+        /// </summary>
+        public int Health
+        {
+            get { return health; }
+            set { if (value >= 0 && value <= 100) health = value; }
+        }
+
         #endregion
 
         #region Private properties
@@ -121,14 +130,25 @@ namespace GameProject
         /// </summary>
         /// <param name="gameTime">game time</param>
         /// <param name="mouse">the current state of the mouse</param>
-        public void Update(GameTime gameTime, MouseState mouse)
+        //public void Update(GameTime gameTime, MouseState mouse)
+        public void Update(GameTime gameTime, KeyboardState key)
         {
             // burger should only respond to input if it still has health
             if (health > 0)
             { 
                 // move burger using mouse
-                drawRectangle.X = mouse.X - sprite.Width / 2;
-                drawRectangle.Y = mouse.Y - sprite.Height / 2;
+                //drawRectangle.X = mouse.X - sprite.Width / 2;
+                //drawRectangle.Y = mouse.Y - sprite.Height / 2;
+
+                if (key.IsKeyDown(Keys.W))
+                    drawRectangle.Y -= GameConstants.BURGER_MOVEMENT_AMOUNT;
+                if (key.IsKeyDown(Keys.S))
+                    drawRectangle.Y += GameConstants.BURGER_MOVEMENT_AMOUNT;
+                if (key.IsKeyDown(Keys.A))
+                    drawRectangle.X -= GameConstants.BURGER_MOVEMENT_AMOUNT;
+                if (key.IsKeyDown(Keys.D))
+                    drawRectangle.X += GameConstants.BURGER_MOVEMENT_AMOUNT;
+
                 // clamp burger in window
                 if (drawRectangle.Left < 0)
                 {
@@ -150,7 +170,8 @@ namespace GameProject
                 // timer concept (for animations) introduced in Chapter 7
                 
                 // shoot if appropriate
-                if (mouse.LeftButton == ButtonState.Pressed && canShoot)
+                //if (mouse.LeftButton == ButtonState.Pressed && canShoot)
+                if (key.IsKeyDown(Keys.Space) && canShoot)
                 {
                     canShoot = false;
                         // create the french fries projectile
@@ -158,6 +179,7 @@ namespace GameProject
                                                     drawRectangle.Center.X, drawRectangle.Center.Y + GameConstants.FRENCH_FRIES_PROJECTILE_OFFSET,
                                                     GameConstants.FRENCH_FRIES_PROJECTILE_SPEED);
                         Game1.AddProjectile(projectile);
+                        shootSound.Play();
                     
                 }
             }
@@ -165,7 +187,8 @@ namespace GameProject
             if (!canShoot)
             {
                 elapsedCooldownTime += gameTime.ElapsedGameTime.Milliseconds;
-                if (elapsedCooldownTime >= GameConstants.BURGER_COOLDOWN_MILLISECONDS || mouse.LeftButton == ButtonState.Released)
+                //if (elapsedCooldownTime >= GameConstants.BURGER_COOLDOWN_MILLISECONDS || mouse.LeftButton == ButtonState.Released)
+                if (elapsedCooldownTime >= GameConstants.BURGER_COOLDOWN_MILLISECONDS || key.IsKeyUp(Keys.Space))
                 {
                     canShoot = true;
                     elapsedCooldownTime = 0;

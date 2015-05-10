@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishGame", "FishGame\FishGame\FishGame.csproj", "{7228DC29-66F0-40A9-8B23-58E98567D5BE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FishGameContent", "FishGame\FishGameContent\FishGameContent.contentproj", "{F5B5B253-D91F-403C-A125-A25AC083097B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7228DC29-66F0-40A9-8B23-58E98567D5BE}.Debug|x86.ActiveCfg = Debug|x86
+		{7228DC29-66F0-40A9-8B23-58E98567D5BE}.Debug|x86.Build.0 = Debug|x86
+		{7228DC29-66F0-40A9-8B23-58E98567D5BE}.Release|x86.ActiveCfg = Release|x86
+		{7228DC29-66F0-40A9-8B23-58E98567D5BE}.Release|x86.Build.0 = Release|x86
+		{F5B5B253-D91F-403C-A125-A25AC083097B}.Debug|x86.ActiveCfg = Debug|x86
+		{F5B5B253-D91F-403C-A125-A25AC083097B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

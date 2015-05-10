@@ -1,0 +1,26 @@
+C:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\bin\x86\Debug\FishGame.exe
+C:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\bin\x86\Debug\FishGame.pdb
+C:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\obj\x86\Debug\FishGame.exe
+C:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\obj\x86\Debug\FishGame.pdb
+C:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\bin\x86\Debug\Content\fish.xnb
+C:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\bin\x86\Debug\Content\teddybear.xnb
+C:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\bin\x86\Debug\Content\Arial.xnb
+D:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\bin\x86\Debug\Content\fish.xnb
+D:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\bin\x86\Debug\Content\teddybear.xnb
+D:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\bin\x86\Debug\Content\Arial.xnb
+D:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\bin\x86\Debug\FishGame.exe
+D:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\bin\x86\Debug\FishGame.pdb
+D:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\obj\x86\Debug\FishGame.exe
+D:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\obj\x86\Debug\FishGame.pdb
+D:\Book (C#)\Chapter 15 XNA Text IO\Chapter15Code\FishGame\FishGame\FishGame\obj\x86\Debug\FishGame.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 13 XNA Text IO\43 XNA Keyboard Input\Code\Final Code\VisualStudioKeyboardInput\FishGame\FishGame\bin\x86\Debug\Content\fish.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 13 XNA Text IO\43 XNA Keyboard Input\Code\Final Code\VisualStudioKeyboardInput\FishGame\FishGame\bin\x86\Debug\Content\teddybear.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 13 XNA Text IO\43 XNA Keyboard Input\Code\Final Code\VisualStudioKeyboardInput\FishGame\FishGame\bin\x86\Debug\FishGame.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 13 XNA Text IO\43 XNA Keyboard Input\Code\Final Code\VisualStudioKeyboardInput\FishGame\FishGame\bin\x86\Debug\FishGame.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 13 XNA Text IO\43 XNA Keyboard Input\Code\Final Code\VisualStudioKeyboardInput\FishGame\FishGame\obj\x86\Debug\FishGame.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 13 XNA Text IO\43 XNA Keyboard Input\Code\Final Code\VisualStudioKeyboardInput\FishGame\FishGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Lectures\Module 13 XNA Text IO\43 XNA Keyboard Input\Code\Final Code\VisualStudioKeyboardInput\FishGame\FishGame\obj\x86\Debug\FishGame.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 13 XNA Text IO\43 XNA Keyboard Input\Code\Final Code\VisualStudioKeyboardInput\FishGame\FishGame\obj\x86\Debug\FishGame.pdb
